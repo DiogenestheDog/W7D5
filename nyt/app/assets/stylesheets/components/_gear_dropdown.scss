@@ -1,0 +1,26 @@
+// Use the gear_dropdown.png screenshot as a style guide
+#gear-dropdown {
+  position: absolute;
+  right: 0px;
+  z-index: 1;
+  background-color: white;
+  border: 1px rgba(0, 0, 0, 0.09) solid;
+  padding: 5px;
+  box-shadow: -1px 4px 6px 1px rgba(0, 0, 0, 0.09);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 11px;
+  padding: 7px;
+  line-height: 15px;
+  width: 80px;
+
+  //background-color: #ebebeb;
+ 
+}
+
+.help-box {
+  border-top: 1px rgba(0, 0, 0, 0.09) solid;
+}
+
+.dropdown-subtitle {
+  
+}

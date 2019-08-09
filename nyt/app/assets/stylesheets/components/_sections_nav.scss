@@ -1,0 +1,19 @@
+.section-nav {
+  display: flex;
+  justify-content: center;
+}
+
+.section-nav a {
+  margin: 2px;
+  // font-size: 1.4vw;
+  font-size: 10px
+}
+
+.section-nav a:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.section-nav a:last-child {
+  text-decoration: underline;
+}
